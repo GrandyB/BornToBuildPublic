@@ -1,0 +1,19 @@
+{
+    "news": [
+        {
+            "title": "Character Customization (Devlog)",
+            "image": "https://img.youtube.com/vi/cYJdLj5dsYo/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=cYJdLj5dsYo"
+        },
+        {
+            "title": "Official Map Announcement",
+            "image": "https://img.youtube.com/vi/YzXX6mp81CQ/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=YzXX6mp81CQ"
+        },
+        {
+            "title": "Our Engine Is (Kinda) Ready for Gameplay (Not Really)",
+            "image": "https://img.youtube.com/vi/7HI-wX1ODoU/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=7HI-wX1ODoU"
+        }
+    ]
+}
