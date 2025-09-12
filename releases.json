@@ -1,0 +1,14 @@
+{
+    "latest": {
+        "alpha": "0.0.0"
+    },
+    "versions": [
+        {
+            "id": "0.0.0",
+            "type": "alpha",
+            "timestamp": 1757677629,
+            "url": "https://github.com/GrandyB/BornToBuildPublic/blob/main/born-to-build-release.zip",
+            "sha1": "dummysha100"
+        }
+    ]
+}
